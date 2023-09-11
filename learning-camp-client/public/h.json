@@ -1,0 +1,73 @@
+{
+    "_id": "6484118f61b4a0a7b74d0332",
+    "Img": "https://i.ibb.co/YL4rfWJ/1-16.jpg",
+    "courseName": "Lars (Danish)",
+    "coursePrice": "300",
+    "teachersName": "Adom HInry",
+    "phone": "123456789",
+    "departmentEmail": "abc@gmail.com",
+    "description": "Lars is a common Danish given name that is derived from the Latin name \"Laurentius,\" meaning \"from Laurentum.\" It is a masculine name and is widely used in Denmark and other Scandinavian countries. Lars has a strong presence in Danish society and is associated with various personality traits and characteristics.\n\nPhysically, Lars can vary in appearance like any individual, but typically Danish people have a diverse range of features, including fair to light brown hair, blue or green eyes, and a generally tall and lean build. However, it's important to note that physical attributes can vary greatly among individuals, and Lars may have any combination of these features or something entirely different.\n\nIn terms of personality, Lars is often perceived as friendly, approachable, and down-to-earth. He tends to be honest, straightforward, and values sincerity in his interactions. Lars is known for his strong work ethic and dedication to his endeavors, whether it be in his professional or personal life. He is often seen as reliable, responsible, and trustworthy, making him a dependable friend or colleague.\n\nLars takes pride in his Danish heritage and culture, and he may have a deep appreciation for traditions and customs. Denmark's emphasis on egalitarianism and social equality often influences Lars, leading him to be respectful of others and have a cooperative nature. He values strong relationships and may prioritize spending quality time with loved ones.\n\nLars may have various interests and hobbies, ranging from outdoor activities like cycling, hiking, or sailing to cultural pursuits such as literature, music, or art. Denmark's strong design heritage and focus on innovation might inspire Lars to have an appreciation for aesthetics and a keen eye for detail.",
+    "availableSeat": "10",
+    "status": "approved",
+    "feedback": {
+        "feedback": "hello world"
+    },
+    {
+        "_id": "64834faa7e3ba37be637e4f6",
+        "email": "abc@gmail.com",
+        "name": "Adom HanTer",
+        "photo": "https://i.ibb.co/MGMYsrB/teachers-7.png",
+        "role": "instractor"
+    }
+}
+
+[
+    {
+        "className": "Zen Tai Chi Flow",
+        "img": "https://i.ibb.co/Y8Wwdyy/1.jpg",
+        "location": "Harmony Martial Arts Center, Serenity Town",
+        "time": "Monday, 9:00 AM - 10:30 AM",
+        "student_enroll": 2700,
+        "price": 3223
+    },
+    {
+        "className": "Powerful Krav Maga",
+        "img": "https://i.ibb.co/4ssX11b/2.jpg",
+        "location": "Defend and Attack Martial Arts Studio",
+        "time": "Tuesday, 6:30 PM - 8:00 PM",
+        "student_enroll": 5400,
+        "price": 3253
+    },
+    {
+        "className": "Elegant Fusion",
+        "img": "https://i.ibb.co/Z1cqk6b/3.jpg",
+        "location": "Rhythm and Motion Academy, Harmonyville",
+        "time": "Wednesday, 7:00 PM - 8:30 PM",
+        "student_enroll": 7000,
+        "price": 1053
+    },
+    {
+        "className": "Dynamic Kickboxing",
+        "img": "https://i.ibb.co/rdLh590/4-1.jpg",
+        "location": "Thunderstrike Gym, Velocity City",
+        "time": "Thursday, 5:30 PM - 7:00 PM",
+        "student_enroll": 3000,
+        "price": 6053
+    },
+    {
+        "className": "Graceful Techniques",
+        "img": "https://i.ibb.co/1bNyD8f/4.jpg",
+        "location": "Harmony Martial Arts Center, Serenity Town",
+        "time": "Friday, 7:30 PM - 9:00 PM",
+        "student_enroll": 2000,
+        "price": 3053
+    },
+    {
+        "className": "Intense Brazilian ",
+        "img": "https://i.ibb.co/qk0cV20/5.jpg",
+        "location": "Submission Academy, Valorville",
+        "time": "Saturday, 6:00 PM - 7:30 PM",
+        "student_enroll": 5000,
+        "price": 3003
+    }
+]

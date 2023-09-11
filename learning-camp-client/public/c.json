@@ -1,0 +1,167 @@
+[
+    {
+        "className": "Zen Tai Chi ",
+        "img": "https://i.ibb.co/Y8Wwdyy/1.jpg",
+        "location": "Harmony Martial Arts Center, Serenity Town",
+        "time": "Monday, 9:00 AM - 10:30 AM",
+        "instructorName": "John Doe",
+        "instructorEmail": "johndoe@example.com",
+        "studentEnroll": 15,
+        "availableSeats": 20,
+        "price": 49.99
+    },
+    {
+        "className": "Powerful Krav ",
+        "img": "https://i.ibb.co/4ssX11b/2.jpg",
+        "location": "Defend and Attack Martial Arts Studio, Fortitude City",
+        "time": "Tuesday, 6:30 PM - 8:00 PM",
+        "instructorName": "Jane Smith",
+        "instructorEmail": "janesmith@example.com",
+        "studentEnroll": 12,
+        "availableSeats": 18,
+        "price": 59.99
+    },
+    {
+        "className": "Elegant Capoeira ",
+        "img": "https://i.ibb.co/Z1cqk6b/3.jpg",
+        "location": "Rhythm and Motion Academy, Harmonyville",
+        "time": "Wednesday, 7:00 PM - 8:30 PM",
+        "instructorName": "David Johnson",
+        "instructorEmail": "davidjohnson@example.com",
+        "studentEnroll": 20,
+        "availableSeats": 25,
+        "price": 39.99
+    },
+    {
+        "className": "Dynamic  Kickboxing",
+        "img": "https://i.ibb.co/rdLh590/4-1.jpg",
+        "location": "Thunderstrike Gym, Velocity City",
+        "time": "Thursday, 5:30 PM - 7:00 PM",
+        "instructorName": "Emily Wilson",
+        "instructorEmail": "emilywilson@example.com",
+        "studentEnroll": 18,
+        "availableSeats": 20,
+        "price": 54.99
+    },
+    {
+        "className": "Graceful Techniques",
+        "img": "https://i.ibb.co/1bNyD8f/4.jpg",
+        "location": "Harmony Martial Arts Center, Serenity Town",
+        "time": "Friday, 7:30 PM - 9:00 PM",
+        "instructorName": "Michael Anderson",
+        "instructorEmail": "michaelanderson@example.com",
+        "studentEnroll": 10,
+        "availableSeats": 15,
+        "price": 44.99
+    },
+    {
+        "className": "Intense Brazilian ",
+        "img": "https://i.ibb.co/qk0cV20/5.jpg",
+        "location": "Submission Academy, Valorville",
+        "time": "Saturday, 6:00 PM - 7:30 PM",
+        "instructorName": "Sarah Davis",
+        "instructorEmail": "sarahdavis@example.com",
+        "studentEnroll": 25,
+        "availableSeats": 30,
+        "price": 69.99
+    },
+    {
+        "className": "Power Kickboxing ",
+        "img": "https://i.ibb.co/f9JKwwY/3-1.jpg",
+        "location": "StrikeFit Training Center, Energy City",
+        "time": "Monday, 6:00 PM - 7:30 PM",
+        "instructorName": "Robert Thompson",
+        "instructorEmail": "robertthompson@example.com",
+        "studentEnroll": 16,
+        "availableSeats": 20,
+        "price": 49.99
+    },
+    {
+        "className": "Yang Style Tai ",
+        "img": "https://i.ibb.co/Y8Wwdyy/1.jpg",
+        "location": "Balance and Harmony Studio, Tranquility Town",
+        "time": "Wednesday, 10:00 AM - 11:30 AM",
+        "instructorName": "Laura Wilson",
+        "instructorEmail": "laurawilson@example.com",
+        "studentEnroll": 14,
+        "availableSeats": 15,
+        "price": 39.99
+    },
+    {
+        "className": "Dynamic Training",
+        "img": "https://i.ibb.co/4ssX11b/2.jpg",
+        "location": "Focus Martial Arts Dojo, Precision City",
+        "time": "Thursday, 7:00 PM - 8:30 PM",
+        "instructorName": "Daniel Lee",
+        "instructorEmail": "daniellee@example.com",
+        "studentEnroll": 20,
+        "availableSeats": 25,
+        "price": 54.99
+    },
+    {
+        "className": "Flowing Kung Fu ",
+        "img": "https://i.ibb.co/Z1cqk6b/3.jpg",
+        "location": "Harmony Martial Arts Center, Serenity Town",
+        "time": "Saturday, 9:00 AM - 10:30 AM",
+        "instructorName": "Emily Chen",
+        "instructorEmail": "emilychen@example.com",
+        "studentEnroll": 12,
+        "availableSeats": 15,
+        "price": 44.99
+    },
+    {
+        "className": "Powerful  Techniques",
+        "img": "https://i.ibb.co/rdLh590/4-1.jpg",
+        "location": "StrikeZone Dojang, Velocity City",
+        "time": "Tuesday, 7:30 PM - 9:00 PM",
+        "instructorName": "Alex Kim",
+        "instructorEmail": "alexkim@example.com",
+        "studentEnroll": 18,
+        "availableSeats": 20,
+        "price": 59.99
+    },
+    {
+        "className": "Brazilian Jiu ",
+        "img": "https://i.ibb.co/1bNyD8f/4.jpg",
+        "location": "Submission Academy, Valorville",
+        "time": "Monday, 7:00 PM - 8:30 PM",
+        "instructorName": "Chris Roberts",
+        "instructorEmail": "chrisroberts@example.com",
+        "studentEnroll": 22,
+        "availableSeats": 25,
+        "price": 54.99
+    },
+    {
+        "className": "Energetic Kickboxing",
+        "img": "https://i.ibb.co/qk0cV20/5.jpg",
+        "location": "StrikeFit Training Center, Energy City",
+        "time": "Wednesday, 6:30 PM - 8:00 PM",
+        "instructorName": "Jessica Wilson",
+        "instructorEmail": "jessicawilson@example.com",
+        "studentEnroll": 16,
+        "availableSeats": 18,
+        "price": 49.99
+    },
+    {
+        "className": "Wing  Kung Fu",
+        "img": "https://i.ibb.co/qk0cV20/5.jpg",
+        "location": "Balance and Harmony Studio, Tranquility Town",
+        "time": "Thursday, 6:00 PM - 7:30 PM",
+        "instructorName": "Andrew Lee",
+        "instructorEmail": "andrewlee@example.com",
+        "studentEnroll": 14,
+        "availableSeats": 16,
+        "price": 44.99
+    },
+    {
+        "className": "Powerful  Techniques",
+        "img": "https://i.ibb.co/rdLh590/4-1.jpg",
+        "location": "StrikeZone Dojang, Velocity City",
+        "time": "Tuesday, 7:30 PM - 9:00 PM",
+        "instructorName": "Alex Kim",
+        "instructorEmail": "alexkim@example.com",
+        "studentEnroll": 10,
+        "availableSeats": 20,
+        "price": 59.99
+    }
+]

@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loginBanner {
+  background: url(../src/assets/loginBG.avif);
+  background-position: top bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.drawer-side a.active {
+  background-color: white;
+  color: black;
+}
+
+.drawer-side a {
+  background-color: transparent;
+  color: white;
+}
