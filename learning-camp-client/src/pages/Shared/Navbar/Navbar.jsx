@@ -55,9 +55,9 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end">
 
-                    <button className='px-8'>
+                    {/* <button className='px-8'>
                         {isDark ? <FaMoon className="cursor-pointer text-2xl" onClick={() => setIsDark(false)} /> : <FaRegMoon className="cursor-pointer text-2xl" onClick={() => setIsDark(true)} />}
-                    </button>
+                    </button> */}
 
                     {
                         user ? <>
